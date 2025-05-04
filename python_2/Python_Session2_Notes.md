@@ -213,7 +213,3 @@ print(add_numbers(6, 3, 4))
 **Explanation:**
 - Adds up to three numbers with default values of 0.
 
----
-
-### Downloadable Markdown
-This content is available for download as a markdown file.
